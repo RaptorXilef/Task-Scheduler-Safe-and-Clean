@@ -29,7 +29,7 @@ Task Scheduler Safe and Clean` ermöglicht das **Sichern (Exportieren)** und ans
 
 ## 🖥️ Verwendung
 
-1.  **Herunterladen:** Lade die Skriptdateien `TaskSchedulerSafeAndClean.ps1` und TSSAC-start(Admin).cmd in ein Verzeichnis deiner Wahl herunter.
+1.  **Herunterladen:** Lade die Skriptdateien `TaskSchedulerSafeAndClean.ps1` und `TSSAC-start(Admin).cmd` in ein Verzeichnis deiner Wahl herunter.
 2.  **CMD als Administrator öffnen:**
     * Rechtsklicke auf "TSSAC-start(Admin).cmd" und wähle "Als Administrator ausführen".
 3.  **Anweisungen folgen:** Das Skript wird dich interaktiv nach dem Namen und optional dem Pfad der zu bearbeitenden Aufgabe fragen.
